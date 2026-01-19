@@ -1,0 +1,1363 @@
+{
+  "paper_id": "Research_Paper_On_Artificial_Intelligence_And_Its",
+  "pages": [
+    {
+      "page": 1,
+      "blocks": [
+        {
+          "text": "Available online at: https://jazindia.com                                                                                                                229",
+          "font_size": 10.5
+        },
+        {
+          "text": "Journal of Advanced Zoology",
+          "font_size": 16.5
+        },
+        {
+          "text": "ISSN: 0253-7214",
+          "font_size": 11.04
+        },
+        {
+          "text": "Volume 44 Issue S-8 Year 2023 Page 229 -238",
+          "font_size": 11.04
+        },
+        {
+          "text": "____________________________________________________________________________________________________________________________",
+          "font_size": 11.04
+        },
+        {
+          "text": "Research Paper On Artificial Intelligence And It\u2019s Applications",
+          "font_size": 14.04
+        },
+        {
+          "text": "N. H. Patil1*,  S. H. Patel2,  S.D.  Lawand3",
+          "font_size": 10.3
+        },
+        {
+          "text": "1*Assistant Professor Department Of Information Technology, Changu Kana Thakur Arts, Commerce and",
+          "font_size": 8.32
+        },
+        {
+          "text": "Science College, New Panvel  Email:  nikitadpatil1904@gmail.com",
+          "font_size": 11.04
+        },
+        {
+          "text": "2Department Of Information Technology, Changu Kana Thakur Arts, Commerce and Science College, New",
+          "font_size": 9.0
+        },
+        {
+          "text": "Panvel Email:  shifapatel2110@gmail.com",
+          "font_size": 11.04
+        },
+        {
+          "text": "3Department Of Information Technology ,Changu Kana Thakur Arts, Commerce and Science College, New",
+          "font_size": 9.0
+        },
+        {
+          "text": "Panvel Email: sapnalawand0@gmail.com",
+          "font_size": 11.04
+        },
+        {
+          "text": "*Corresponding Author: N.H. Patil",
+          "font_size": 10.02
+        },
+        {
+          "text": "*Assistant Professor, Department Of Information Technology, Changu Kana Thakur Arts, Commerce and",
+          "font_size": 9.68
+        },
+        {
+          "text": "Science College, New Panvel Email:  nikitadpatil1904@gmail.com",
+          "font_size": 11.04
+        },
+        {
+          "text": "CC License",
+          "font_size": 11.04
+        },
+        {
+          "text": "CC-BY-NC-SA 4.0",
+          "font_size": 11.04
+        },
+        {
+          "text": "Abstract",
+          "font_size": 11.04
+        },
+        {
+          "text": "In the future, intelligent machines will replace or enhance human capabilities",
+          "font_size": 11.04
+        },
+        {
+          "text": "in many areas. Artificial intelligence is the intelligence exhibited by",
+          "font_size": 11.04
+        },
+        {
+          "text": "machines or software. It is the subfield of computer science. Artificial",
+          "font_size": 11.04
+        },
+        {
+          "text": "intelligence is becoming a popular field in computer science as it has",
+          "font_size": 11.04
+        },
+        {
+          "text": "enhanced the human life in many areas. Artificial intelligence in the last two",
+          "font_size": 11.04
+        },
+        {
+          "text": "decades has greatly improved performance of the manufacturing, service",
+          "font_size": 11.04
+        },
+        {
+          "text": "sector and so in the field of education. Study in the field of artificial",
+          "font_size": 11.04
+        },
+        {
+          "text": "intelligence has given rise to the rapidly growing technology known as expert",
+          "font_size": 11.04
+        },
+        {
+          "text": "system. Application areas of artificial intelligence is heaving a huge impact",
+          "font_size": 11.04
+        },
+        {
+          "text": "on various fields of life as expert system is widely used in these days to solve",
+          "font_size": 11.04
+        },
+        {
+          "text": "the complex problems in various areas as education, engineering, business,",
+          "font_size": 11.04
+        },
+        {
+          "text": "medicine, weather forecasting etc. The areas employing the technology of",
+          "font_size": 11.04
+        },
+        {
+          "text": "artificial intelligence have seen an increase in the quality and efficiency. This",
+          "font_size": 11.04
+        },
+        {
+          "text": "paper gives an overview of this technology and the scope of artificial",
+          "font_size": 11.04
+        },
+        {
+          "text": "intelligence in different areas with special reference to the use of this",
+          "font_size": 11.04
+        },
+        {
+          "text": "technology in the field of education along with its meaning, searching",
+          "font_size": 11.04
+        },
+        {
+          "text": "techniques, inventions and future.",
+          "font_size": 11.04
+        },
+        {
+          "text": "INTRODUCTION",
+          "font_size": 11.04
+        },
+        {
+          "text": "It is claimed that artificial intelligence is playing an increasing role in the research of educational technology,",
+          "font_size": 11.04
+        },
+        {
+          "text": "management sciences and operational research areas. Intelligence is commonly considered as the ability to",
+          "font_size": 11.04
+        },
+        {
+          "text": "collect knowledge to solve complex problems. In the near future intelligent machines will replace human",
+          "font_size": 11.04
+        },
+        {
+          "text": "capabilities in many areas. Artificial intelligence is the study of intelligent machines and software that can",
+          "font_size": 11.04
+        },
+        {
+          "text": "reason, learn, gather knowledge, communicate, manipulate and perceive the objects. John McCarthy coined",
+          "font_size": 11.04
+        },
+        {
+          "text": "the term in 1956 as branch of computer science concerned with making computers behave like humans. It is",
+          "font_size": 11.04
+        },
+        {
+          "text": "the study of the computation that makes it possible to perceive reason and act. Artificial intelligence is different",
+          "font_size": 11.04
+        },
+        {
+          "text": "from Psychology because it emphasis on computation and is different from computer science because of its",
+          "font_size": 11.04
+        },
+        {
+          "text": "emphasis on perception, reasoning and action. It makes machines smarter and more useful. It works with the",
+          "font_size": 11.04
+        },
+        {
+          "text": "help of artificial neurons (artificial neural network) and scientific theorems (if then statements and logics). AI",
+          "font_size": 11.04
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "blocks": [
+        {
+          "text": "Journal of Advanced Zoology",
+          "font_size": 9.96
+        },
+        {
+          "text": "Available online at: https://jazindia.com                                                                                                                      230",
+          "font_size": 10.5
+        },
+        {
+          "text": "technologies have matured to the point in offering real practical benefits in many of their applications. Major",
+          "font_size": 11.04
+        },
+        {
+          "text": "artificial intelligence areas are Expert systems, Intelligent computer aided instructions, Natural language",
+          "font_size": 11.04
+        },
+        {
+          "text": "processing, Speech understanding, Robotics and sensory systems, Computer vision and scene recognition,",
+          "font_size": 11.04
+        },
+        {
+          "text": "Neural computing. From these expert system is a rapidly growing technology which is heaving a huge impact",
+          "font_size": 11.04
+        },
+        {
+          "text": "on various field of life. The various techniques applied in artificial intelligence are Neural network, Fuzzy",
+          "font_size": 11.04
+        },
+        {
+          "text": "logic, Evolutionary computing, Computer aided instructions and Hybrid artificial intelligence.",
+          "font_size": 11.04
+        },
+        {
+          "text": "It is the science and engineering of making intelligent machines, especially intelligent computer programs. It",
+          "font_size": 11.04
+        },
+        {
+          "text": "is related to the similar task of using computers to understand human intelligence, but AI does not have to",
+          "font_size": 11.04
+        },
+        {
+          "text": "confine itself to methods that are biologically observable. While no consensual definition of Artificial",
+          "font_size": 11.04
+        },
+        {
+          "text": "Intelligence (AI) exists, AI is broadly characterized as the study of computations that allow for perception,",
+          "font_size": 11.04
+        },
+        {
+          "text": "reason and action. Today, the amount of data that is generated, by both humans and machines, far outpaces",
+          "font_size": 11.04
+        },
+        {
+          "text": "humans\u2019 ability to absorb, interpret, and make complex decisions based on that data. Artificial intelligence",
+          "font_size": 11.04
+        },
+        {
+          "text": "forms the basis for all computer learning and is the future of all complex decision making. This paper examines",
+          "font_size": 11.04
+        },
+        {
+          "text": "features of artificial Intelligence, introduction, definitions of AI, history, applications, growth and",
+          "font_size": 11.04
+        },
+        {
+          "text": "achievements.",
+          "font_size": 11.04
+        },
+        {
+          "text": "Evolution of AI definition",
+          "font_size": 11.04
+        },
+        {
+          "text": "AI has a history much longer than is commonly understood, in fields from science and philosophy ranging all",
+          "font_size": 11.04
+        },
+        {
+          "text": "the way back to ancient Greece but its modern iteration owes much to Alan Turing and conference in Dartmouth",
+          "font_size": 11.04
+        },
+        {
+          "text": "College in 1956 where the term \u201cArtificial Intelligence\u201d was officially coined and defined by John McCarthy",
+          "font_size": 11.04
+        },
+        {
+          "text": "at the time as \u201cthe science and engineering of making intelligent machines\u201d. Russel and Norvig (2020) referred",
+          "font_size": 11.04
+        },
+        {
+          "text": "to it as the \u201cthe birth of artificial intelligence.\u201d One of the initial paradigms of AI was that it revolved around",
+          "font_size": 11.04
+        },
+        {
+          "text": "high-level cognition. Not the ability to recognise concepts, perceive objects, or execute complex motor skills",
+          "font_size": 11.04
+        },
+        {
+          "text": "shared by most animals, but the potential to engage in multi-step reasoning, to understand the meaning of",
+          "font_size": 11.04
+        },
+        {
+          "text": "natural language, to design innovative artefacts, to generate novel plans that achieve goals, and even to reason",
+          "font_size": 11.04
+        },
+        {
+          "text": "about their own reasoning. This general human like intelligence was referred to as strong AI For strong AI, the",
+          "font_size": 11.04
+        },
+        {
+          "text": "primary approach has centred on symbolic reasoning, that computers are not simply numeric calculators but",
+          "font_size": 11.04
+        },
+        {
+          "text": "rather general symbol manipulators. As noted by Newell and Simon (1976) in their physical symbol system",
+          "font_size": 11.04
+        },
+        {
+          "text": "hypothesis, intelligent behaviour appears to require the ability to interpret and manipulate symbolic structures.",
+          "font_size": 11.04
+        },
+        {
+          "text": "While this approach showed promise initially (Newell & Simon, 1963), many branches of AI have retreated",
+          "font_size": 11.04
+        },
+        {
+          "text": "from this approach due its difficulty and the lack of progress coming in to the 21st century. It remains yet",
+          "font_size": 9.68
+        },
+        {
+          "text": "uncertain on when and if strong AI will be made a reality.",
+          "font_size": 11.04
+        },
+        {
+          "text": "The distinction between weak AI and strong AI is also concerned with rule adherence, i.e., the way machines",
+          "font_size": 11.04
+        },
+        {
+          "text": "interact with rules  distinguishes rule-based decision making in which machines strictly respect the rules set by",
+          "font_size": 11.04
+        },
+        {
+          "text": "developers from rule following decision making which machines follow rules that have not been strictly",
+          "font_size": 11.04
+        },
+        {
+          "text": "specified to them. Rule-based decision-making matches weak AI, while rule-following decision making is an",
+          "font_size": 11.04
+        },
+        {
+          "text": "attempt that tends towards strong AI. An example of rule-following decision making is neural networks (NN),",
+          "font_size": 11.04
+        },
+        {
+          "text": "which allow algorithms to learn from themselves. Strong AI would be machines making their own rules and",
+          "font_size": 11.04
+        },
+        {
+          "text": "then follow them, which is not possible at the stage of right now",
+          "font_size": 11.04
+        },
+        {
+          "text": "AI has gone through many peaks and troughs since its early inception in the 1950s, usually referred to as AI",
+          "font_size": 11.04
+        },
+        {
+          "text": "\u201csummers and winters. Since 2010, however, AI can be said to have once again entered a summer period,",
+          "font_size": 11.04
+        },
+        {
+          "text": "mainly due to considerable improvements in the computing power of computers and the access to massive",
+          "font_size": 11.04
+        },
+        {
+          "text": "amounts of data .This resurgence in AI research is the result of three breakthroughs: (1) the introduction of a",
+          "font_size": 11.04
+        },
+        {
+          "text": "much more sophisticated class of algorithms; (2) the arrival on the market of low-cost graphics processors",
+          "font_size": 11.04
+        },
+        {
+          "text": "capable of performing large amounts of calculations in a few milliseconds; and (3) the availability of very",
+          "font_size": 11.04
+        },
+        {
+          "text": "large, correctly annotated databases allowing for more sophisticated learning of intelligent systems (Jain et al.,",
+          "font_size": 11.04
+        },
+        {
+          "text": "2004, Khashman, 2009, PWC, 2019).",
+          "font_size": 11.04
+        },
+        {
+          "text": "Despite the length of time the field has existed, there is still no commonly accepted definition (Allen,",
+          "font_size": 11.04
+        },
+        {
+          "text": "1998, Bhatnagar et al., 2018, Brachman, 2006, Hearst and Hirsh, 2000, Nilsson, 2009). This is not considered",
+          "font_size": 11.04
+        },
+        {
+          "text": "a problem yet, as many scientific concepts only get true definitions after they have matured enough, rather than",
+          "font_size": 11.04
+        },
+        {
+          "text": "at their conception, and given the complexity and breadth of AI, it may not be feasible to expect AI to have a",
+          "font_size": 11.04
+        },
+        {
+          "text": "set definition yet. Still, this doesn\u2019t mean that the topic should be ignored, especially with the recent",
+          "font_size": 11.04
+        },
+        {
+          "text": "advancements and advancements relating to the field.However, without a clear definition of the term, \u201cit is",
+          "font_size": 11.04
+        },
+        {
+          "text": "difficult for policymakers to assess what AI systems will be able to do in the near future, and how the field may",
+          "font_size": 11.04
+        },
+        {
+          "text": "get there. There is no common framework to determine which kinds of AI systems are even desirable\u201d",
+          "font_size": 11.04
+        },
+        {
+          "text": "(Bhatnagar et al., 2018). A similar concern has been echoed by Monett and Lewis (2018), that \u201ctheories of",
+          "font_size": 11.04
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "blocks": [
+        {
+          "text": "Journal of Advanced Zoology",
+          "font_size": 9.96
+        },
+        {
+          "text": "Available online at: https://jazindia.com                                                                                                                      231",
+          "font_size": 10.5
+        },
+        {
+          "text": "intelligence and the goal of Artificial Intelligence (A.I.) have been the source of much confusion both within",
+          "font_size": 11.04
+        },
+        {
+          "text": "the field and among the general public\u201d.",
+          "font_size": 11.04
+        },
+        {
+          "text": "In the years immediately preceding and after the 1956 Dartmouth conference where the term was coined, when",
+          "font_size": 11.04
+        },
+        {
+          "text": "the concept for AI was first brewing in academic consciousness, many researchers (would later become famous",
+          "font_size": 11.04
+        },
+        {
+          "text": "for their contributions to AI) formulated many theories and proposals that focused on the common features of",
+          "font_size": 11.04
+        },
+        {
+          "text": "mind and (McCulloch and Pitts, 1943, Turing, 1950, von Neumann, 1958, Wiener, 1948). While these thought",
+          "font_size": 11.04
+        },
+        {
+          "text": "leaders were influential, the field of AI as we know it owes more to McCarthy, Minsky, Newell, and Simon.",
+          "font_size": 11.04
+        },
+        {
+          "text": "While this is partly due to their own attendance of the famous 1951 Dartmouth conference, it is likely more",
+          "font_size": 11.04
+        },
+        {
+          "text": "since they went on to establish three leading research centres which shaped the stream of though regarding AI",
+          "font_size": 11.04
+        },
+        {
+          "text": "for years. Their own opinion on AI was as follows;\u201cBy \u2018general intelligent action\u2019 we wish to indicate the",
+          "font_size": 11.04
+        },
+        {
+          "text": "same scope of intelligence as we see in human action: that in any real situation behaviour appropriate to the",
+          "font_size": 11.04
+        },
+        {
+          "text": "ends of the system and adaptive to the demands of the environment can occur, within some limits of speed and",
+          "font_size": 11.04
+        },
+        {
+          "text": "complexity\u201d (Newell & Simon, Computer science as empirical enquiry: Symbols and search, 1976).",
+          "font_size": 11.04
+        },
+        {
+          "text": "Intelligence usually means \u201cthe ability to solve hard problems\u201d (Minsky, 1958).",
+          "font_size": 11.04
+        },
+        {
+          "text": "\u201cAI is concerned with methods of achieving goals in situations in which the information available has a certain",
+          "font_size": 11.04
+        },
+        {
+          "text": "complex character. The methods that have to be used are related to the problem presented by the situation and",
+          "font_size": 11.04
+        },
+        {
+          "text": "are similar whether the problem solver is human, a Martian, or a computer program\u201d (McCarthy, 1988). With",
+          "font_size": 11.04
+        },
+        {
+          "text": "the variety of separate opinions on what AI is, lacking agreement on a standard evaluation (i.e., criteria,",
+          "font_size": 11.04
+        },
+        {
+          "text": "benchmark tests, milestones) makes it extremely challenging for the field to maintain healthy growth",
+          "font_size": 11.04
+        },
+        {
+          "text": "(Hern\u00b4andez-Orallo, 2017).",
+          "font_size": 11.04
+        },
+        {
+          "text": "A systematic guide to literature review development",
+          "font_size": 11.04
+        },
+        {
+          "text": "Okoli (2015) propose a systematic review process that consists of 8 steps, namely planning (2 steps), selection",
+          "font_size": 11.04
+        },
+        {
+          "text": "(2 steps), extraction (2 steps) and execution (2 steps) that are completed across 4 phases (see Fig. 1.). Each of",
+          "font_size": 11.04
+        },
+        {
+          "text": "these four phases and eight steps are discussed in detail in the remainder of the section.",
+          "font_size": 11.04
+        },
+        {
+          "text": "Discussion",
+          "font_size": 11.04
+        },
+        {
+          "text": "This section summarises the findings of the SLR and highlights some areas that research to date has focused",
+          "font_size": 11.04
+        },
+        {
+          "text": "and the key findings from these studies. It is then followed by a discussion on the theoretical contributions and",
+          "font_size": 11.04
+        },
+        {
+          "text": "implications for practice. The overall goal is to uncover themes that are relevant for research and practice and",
+          "font_size": 11.04
+        },
+        {
+          "text": "identify areas which warrant further research. This section will discuss relevant insights we found from the",
+          "font_size": 11.04
+        },
+        {
+          "text": "literature, starting with the lack of cohesion around the definition of AI, the resurgence of AI interest and",
+          "font_size": 11.04
+        },
+        {
+          "text": "research in recent years, the specific contribution types of AI literature, and the disproportionate focus on",
+          "font_size": 11.04
+        },
+        {
+          "text": "machine learning and process automation.",
+          "font_size": 11.04
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "blocks": [
+        {
+          "text": "Journal of Advanced Zoology",
+          "font_size": 9.96
+        },
+        {
+          "text": "Available online at: https://jazindia.com                                                                                                                      232",
+          "font_size": 10.5
+        },
+        {
+          "text": "In this study we conducted a SLR that provides a comprehensive overview on AI in IS related studies. By using",
+          "font_size": 11.04
+        },
+        {
+          "text": "a systematic literature review, we identified, classified, and analysed 1877 studies on AI and ML in IS that",
+          "font_size": 11.04
+        },
+        {
+          "text": "were published between 2005 and 2020. Of these, 98 were identified as primary studies, after a rigorous",
+          "font_size": 11.04
+        },
+        {
+          "text": "filtering process. To understand the fundamentals of AI in IS we examined and studied the articles based on",
+          "font_size": 11.04
+        },
+        {
+          "text": "studies by year, publication channel, research methods used, and their contribution to IS contributions research.",
+          "font_size": 11.04
+        },
+        {
+          "text": "Prior to commencing this task however, we had to consider the problem that the definitions of artificial",
+          "font_size": 11.04
+        },
+        {
+          "text": "intelligence were largely varied and ambiguous.",
+          "font_size": 11.04
+        },
+        {
+          "text": "Following are the sample Questions?",
+          "font_size": 11.04
+        },
+        {
+          "text": "1) Are you aware of Artificial intelligence?",
+          "font_size": 11.04
+        },
+        {
+          "text": "2) Should AI be allowed to replace human workers in certain job?",
+          "font_size": 11.04
+        },
+        {
+          "text": "3) Do you agree that artificial intelligence has useful applications in the medical field and education      sector?",
+          "font_size": 11.04
+        },
+        {
+          "text": "4) How will the advancements of artificial intelligence and robotics impact your decision of being     involved",
+          "font_size": 11.04
+        },
+        {
+          "text": "in a specialty?",
+          "font_size": 11.04
+        },
+        {
+          "text": "5) Do you believe that artificial intelligence will significantly impact the future of technology and society?\"",
+          "font_size": 11.04
+        },
+        {
+          "text": "6) Artificial intelligence has the potential to revolutionize healthcare and improve patient outcomes?",
+          "font_size": 11.04
+        },
+        {
+          "text": "7) Ethical considerations aside, I am comfortable with the use of AI-powered virtual assistants in my daily life?",
+          "font_size": 11.04
+        },
+        {
+          "text": "8) I believe that governments should establish clear regulations for the ethical use of AI technology?",
+          "font_size": 11.04
+        },
+        {
+          "text": "9) I believe that AI should be used to address global challenges such as climate change, poverty, and healthcare",
+          "font_size": 11.04
+        },
+        {
+          "text": "disparities?",
+          "font_size": 11.04
+        },
+        {
+          "text": "10) AI has the potential to enhance efficiency and productivity in various industries?",
+          "font_size": 11.04
+        },
+        {
+          "text": "DATA ANALYSIS:",
+          "font_size": 11.04
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "blocks": [
+        {
+          "text": "Journal of Advanced Zoology",
+          "font_size": 9.96
+        },
+        {
+          "text": "Available online at: https://jazindia.com                                                                                                                      233",
+          "font_size": 10.5
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "blocks": [
+        {
+          "text": "Journal of Advanced Zoology",
+          "font_size": 9.96
+        },
+        {
+          "text": "Available online at: https://jazindia.com                                                                                                                      234",
+          "font_size": 10.5
+        }
+      ]
+    },
+    {
+      "page": 7,
+      "blocks": [
+        {
+          "text": "Journal of Advanced Zoology",
+          "font_size": 9.96
+        },
+        {
+          "text": "Available online at: https://jazindia.com                                                                                                                      235",
+          "font_size": 10.5
+        },
+        {
+          "text": "ARTIFICIAL INTELLIGENCE METHODS:",
+          "font_size": 11.04
+        },
+        {
+          "text": "1. Machine Learning",
+          "font_size": 11.04
+        },
+        {
+          "text": "It is one of the applications of AI where machines are not explicitly programmed to perform certain tasks;",
+          "font_size": 11.04
+        },
+        {
+          "text": "rather, they learn and improve from experience automatically. Deep Learning is a subset of machine learning",
+          "font_size": 11.04
+        },
+        {
+          "text": "based on artificial neural networks for predictive analysis. There are various machine learning algorithms, such",
+          "font_size": 11.04
+        },
+        {
+          "text": "as Unsupervised Learning, Supervised Learning, and Reinforcement Learning. In Unsupervised Learning, the",
+          "font_size": 11.04
+        },
+        {
+          "text": "algorithm does not use classified information to act on it without any guidance. In Supervised Learning, it",
+          "font_size": 11.04
+        },
+        {
+          "text": "deduces a function from the training data, which consists of a set of an input object and the desired output.",
+          "font_size": 11.04
+        },
+        {
+          "text": "Reinforcement learning is used by machines to take suitable actions to increase the reward to find the best",
+          "font_size": 11.04
+        },
+        {
+          "text": "possibility which should be taken in to account.",
+          "font_size": 11.04
+        },
+        {
+          "text": "2. Natural Language Processing(NLP)",
+          "font_size": 11.04
+        },
+        {
+          "text": "It is the interactions between computers and human language where the computers are programmed to process",
+          "font_size": 11.04
+        },
+        {
+          "text": "natural languages. Machine Learning is a reliable technology for Natural Language Processing to obtain",
+          "font_size": 11.04
+        },
+        {
+          "text": "meaning from human languages. In NLP, the audio of a human talk is captured by the machine. Then the audio",
+          "font_size": 11.04
+        },
+        {
+          "text": "to text conversation occurs, and then the text is processed where the data is converted into audio. Then the",
+          "font_size": 11.04
+        },
+        {
+          "text": "machine uses the audio to respond to humans. Applications of Natural Language Processing can be found in",
+          "font_size": 11.04
+        },
+        {
+          "text": "IVR (Interactive Voice Response) applications used in call centres, language translation applications like",
+          "font_size": 11.04
+        },
+        {
+          "text": "Google Translate and word processors such as Microsoft Word to check the accuracy of grammar in text.",
+          "font_size": 11.04
+        },
+        {
+          "text": "However, the nature of human languages makes the Natural Language Processing difficult because of the rules",
+          "font_size": 11.04
+        },
+        {
+          "text": "which are involved in the passing of information using natural language, and they are not easy for the computers",
+          "font_size": 11.04
+        },
+        {
+          "text": "to understand. So NLP uses algorithms to recognize and abstract the rules of the natural languages where the",
+          "font_size": 11.04
+        },
+        {
+          "text": "unstructured data from the human languages can be converted to a format that is understood by the computer.",
+          "font_size": 11.04
+        },
+        {
+          "text": "Automation & Robotics",
+          "font_size": 11.04
+        },
+        {
+          "text": "The purpose of Automation is to get the monotonous and repetitive tasks done by machines which also improve",
+          "font_size": 11.04
+        },
+        {
+          "text": "productivity and in receiving cost-effective and more efficient results. Many organizations use machine",
+          "font_size": 11.04
+        },
+        {
+          "text": "learning, neural networks, and graphs in automation. Such automation can prevent fraud issues while financial",
+          "font_size": 11.04
+        },
+        {
+          "text": "transactions online by using CAPTCHA technology. Robotic process automation is programmed to perform",
+          "font_size": 11.04
+        },
+        {
+          "text": "high volume repetitive tasks which can adapt to the change in different circumstances.",
+          "font_size": 11.04
+        },
+        {
+          "text": "3. Machine Vision",
+          "font_size": 11.04
+        },
+        {
+          "text": "Machines can capture visual information and then analyze it. Here cameras are used to capture the visual",
+          "font_size": 11.04
+        },
+        {
+          "text": "information, the analogue to digital conversion is used to convert the image to digital data, and digital signal",
+          "font_size": 11.04
+        },
+        {
+          "text": "processing is employed to process the data. Then the resulting data is fed to a computer. In machine vision,",
+          "font_size": 11.04
+        },
+        {
+          "text": "two vital aspects are sensitivity, which is the ability of the machine to perceive impulses that are weak and",
+          "font_size": 11.04
+        },
+        {
+          "text": "resolution, the range to which the machine can distinguish the objects. The usage of machine vision can be",
+          "font_size": 11.04
+        },
+        {
+          "text": "found in signature identification, pattern recognition, and medical image analysis, etc.",
+          "font_size": 11.04
+        }
+      ]
+    },
+    {
+      "page": 8,
+      "blocks": [
+        {
+          "text": "Journal of Advanced Zoology",
+          "font_size": 9.96
+        },
+        {
+          "text": "Available online at: https://jazindia.com                                                                                                                      236",
+          "font_size": 10.5
+        },
+        {
+          "text": "4. Knowledge-Based Systems(KBS):",
+          "font_size": 11.04
+        },
+        {
+          "text": "A KBS can be defined as a computer system capable of giving advice in a particular domain, utilizing",
+          "font_size": 11.04
+        },
+        {
+          "text": "knowledge provided by a human expert. A distinguishing feature of KBS lies in the separation behind the",
+          "font_size": 11.04
+        },
+        {
+          "text": "knowledge, which can be represented in a number of ways such as rules, frames, or cases, and the inference",
+          "font_size": 11.04
+        },
+        {
+          "text": "engine or algorithm which uses the knowledge base to arrive at a conclusion.",
+          "font_size": 11.04
+        },
+        {
+          "text": "5. Neural Networks:",
+          "font_size": 11.04
+        },
+        {
+          "text": "NNs are biologically inspired systems consisting of a massively connected network of computational",
+          "font_size": 11.04
+        },
+        {
+          "text": "\u201cneurons,\u201d organized in layers. By adjusting the weights of the network, NNs can be \u201ctrained\u201d to approximate",
+          "font_size": 11.04
+        },
+        {
+          "text": "virtually any nonlinear function to a required degree of accuracy. NNs typically are provided with a set of input",
+          "font_size": 11.04
+        },
+        {
+          "text": "and output exemplars. A learning algorithm (such as back propagation) would then be used to adjust the weights",
+          "font_size": 11.04
+        },
+        {
+          "text": "in the network so that the network would give the desired output, in a type of learning commonly called",
+          "font_size": 11.04
+        },
+        {
+          "text": "supervised learning.",
+          "font_size": 11.04
+        },
+        {
+          "text": "Applications of AI",
+          "font_size": 11.04
+        },
+        {
+          "text": "1. AI in Astronomy",
+          "font_size": 11.04
+        },
+        {
+          "text": "Artificial Intelligence can be very useful to solve complex universe problems. AI technology can be helpful",
+          "font_size": 11.04
+        },
+        {
+          "text": "for understanding the universe such as how it works, origin, etc.",
+          "font_size": 11.04
+        },
+        {
+          "text": "2. AI in Healthcare",
+          "font_size": 11.04
+        },
+        {
+          "text": "In the last, five to ten years, AI becoming more advantageous for the healthcare industry and going to have a",
+          "font_size": 11.04
+        },
+        {
+          "text": "significant impact on this industry. o Healthcare Industries are applying AI to make a better and faster diagnosis",
+          "font_size": 11.04
+        },
+        {
+          "text": "than humans. AI can help doctors with diagnoses and can inform when patients are worsening so that medical",
+          "font_size": 11.04
+        },
+        {
+          "text": "help can reach to the patient before hospitalization.",
+          "font_size": 11.04
+        },
+        {
+          "text": "3. AI in Gaming",
+          "font_size": 11.04
+        },
+        {
+          "text": "AI can be used for gaming purpose. The AI machines can play strategic games like chess, where the machine",
+          "font_size": 11.04
+        },
+        {
+          "text": "needs to think of a large number of possible places.",
+          "font_size": 11.04
+        },
+        {
+          "text": "4. AI in Finance",
+          "font_size": 11.04
+        },
+        {
+          "text": "AI and finance industries are the best matches for each other. The finance industry is implementing automation,",
+          "font_size": 11.04
+        },
+        {
+          "text": "Chabot, adaptive intelligence, algorithm trading, and machine learning into financial processes.",
+          "font_size": 11.04
+        },
+        {
+          "text": "5. AI in Data Security",
+          "font_size": 11.04
+        },
+        {
+          "text": "The security of data is crucial for every company and cyber-attacks are growing very rapidly in the digital",
+          "font_size": 11.04
+        },
+        {
+          "text": "world. AI can be used to make your data more safe and secure. Some examples such as AEG bot, AI2 Platform,",
+          "font_size": 11.04
+        },
+        {
+          "text": "are used to determine software bug and cyber-attacks in a better way.",
+          "font_size": 11.04
+        },
+        {
+          "text": "6. AI in Social Media",
+          "font_size": 11.04
+        },
+        {
+          "text": "Social Media sites such as Facebook, Twitter, and Snap chat contain billions of user profiles, which need to be",
+          "font_size": 11.04
+        },
+        {
+          "text": "stored and managed in a very efficient way. AI can organize and manage massive amounts of data. AI can",
+          "font_size": 11.04
+        },
+        {
+          "text": "analyse lots of data to identify the latest trends, hashtag, and requirement of different users.",
+          "font_size": 11.04
+        },
+        {
+          "text": "6. AI in Travel & Transport",
+          "font_size": 11.04
+        }
+      ]
+    },
+    {
+      "page": 9,
+      "blocks": [
+        {
+          "text": "Journal of Advanced Zoology",
+          "font_size": 9.96
+        },
+        {
+          "text": "Available online at: https://jazindia.com                                                                                                                      237",
+          "font_size": 10.5
+        },
+        {
+          "text": "AI is becoming highly demanding for travel industries. AI is capable of doing various travel related works such",
+          "font_size": 11.04
+        },
+        {
+          "text": "as from making travel arrangement to suggesting the hotels, flights, and best routes to the customers. Travel",
+          "font_size": 11.04
+        },
+        {
+          "text": "industries are using AI-powered chatbots which can make human-like interaction with customers for better and",
+          "font_size": 11.04
+        },
+        {
+          "text": "fast response.",
+          "font_size": 11.04
+        },
+        {
+          "text": "7. AI in Automotive Industry",
+          "font_size": 11.04
+        },
+        {
+          "text": "Some Automotive industries are using AI to provide virtual assistant to their user for better performance. Such",
+          "font_size": 11.04
+        },
+        {
+          "text": "as Tesla has introduced TeslaBot, an intelligent virtual assistant. o Various Industries are currently working for",
+          "font_size": 11.04
+        },
+        {
+          "text": "developing self-driven cars which can make your journey more safe and secure.",
+          "font_size": 11.04
+        },
+        {
+          "text": "8. AI in Robotics:",
+          "font_size": 11.04
+        },
+        {
+          "text": "Artificial Intelligence has a remarkable role in Robotics. Usually, general robots are programmed such that",
+          "font_size": 11.04
+        },
+        {
+          "text": "they can perform some repetitive task, but with the help of AI, we can create intelligent robots which can",
+          "font_size": 11.04
+        },
+        {
+          "text": "perform tasks with their own experiences without pre-programmed. o Humanoid Robots are best examples for",
+          "font_size": 11.04
+        },
+        {
+          "text": "AI in robotics, recently the intelligent Humanoid robot named as Erica and Sophia has been developed which",
+          "font_size": 11.04
+        },
+        {
+          "text": "can talk and behave like humans.",
+          "font_size": 11.04
+        },
+        {
+          "text": "9.",
+          "font_size": 11.04
+        },
+        {
+          "text": "AI in Agriculture",
+          "font_size": 11.04
+        },
+        {
+          "text": "Agriculture is an area which requires various resources, labor, money, and time for best result. Now a day's",
+          "font_size": 11.04
+        },
+        {
+          "text": "agriculture is becoming digital, and AI is emerging in this field. Agriculture is applying AI as agriculture",
+          "font_size": 11.04
+        },
+        {
+          "text": "robotics, solid and crop monitoring, predictive analysis. AI in agriculture can be very helpful for farmers.",
+          "font_size": 11.04
+        },
+        {
+          "text": "10. AI in E-commerce",
+          "font_size": 11.04
+        },
+        {
+          "text": "AI is providing a competitive edge to the e-commerce industry, and it is becoming more demanding in the e-",
+          "font_size": 11.04
+        },
+        {
+          "text": "commerce business. AI is helping shoppers to discover associated products with recommended size, color, or",
+          "font_size": 11.04
+        },
+        {
+          "text": "even brand.",
+          "font_size": 11.04
+        },
+        {
+          "text": "11. AI in education:",
+          "font_size": 11.04
+        },
+        {
+          "text": "AI can automate grading so that the tutor can have more time to teach. AI chatbot can communicate with",
+          "font_size": 11.04
+        },
+        {
+          "text": "students as a teaching assistant. o AI in the future can be work as a personal virtual tutor for students, which",
+          "font_size": 11.04
+        },
+        {
+          "text": "will be accessible easily at any time and any place.",
+          "font_size": 11.04
+        },
+        {
+          "text": "SOME OTHER APPLICATIONS:",
+          "font_size": 11.04
+        },
+        {
+          "text": "1. Fraud detection.",
+          "font_size": 11.04
+        },
+        {
+          "text": "The financial services industry uses artificial intelligence in two ways. Initial scoring of applications for credit",
+          "font_size": 11.04
+        },
+        {
+          "text": "uses AI to understand creditworthiness. More advanced AI engines are employed to monitor and detect",
+          "font_size": 11.04
+        },
+        {
+          "text": "fraudulent payment card transactions in real time.",
+          "font_size": 11.04
+        },
+        {
+          "text": "2. Virtual customer assistance (VCA).",
+          "font_size": 11.04
+        },
+        {
+          "text": "Call centres use VCA to predict and respond to customer inquiries outside of human interaction. Voice",
+          "font_size": 11.04
+        },
+        {
+          "text": "recognition, coupled with simulated human dialog, is the first point of interaction in a customer service inquiry.",
+          "font_size": 11.04
+        },
+        {
+          "text": "Higher-level inquiries are redirected to a human.",
+          "font_size": 11.04
+        },
+        {
+          "text": "3. Medicine:",
+          "font_size": 11.04
+        },
+        {
+          "text": "A medical clinic can use AI systems to organize bed schedules, make a staff rotation, and provide medical",
+          "font_size": 11.04
+        },
+        {
+          "text": "information. AI has also application in fields of cardiology (CRG), neurology (MRI), embryology",
+          "font_size": 11.04
+        },
+        {
+          "text": "(solography), complex operations of internal organs etc.",
+          "font_size": 11.04
+        },
+        {
+          "text": "4. Heavy Industries :",
+          "font_size": 11.04
+        },
+        {
+          "text": "Huge machines involve risk in their manual maintenance and working. So in becomes necessary part to have",
+          "font_size": 11.04
+        },
+        {
+          "text": "an efficient and safe operation agent in their operation.",
+          "font_size": 11.04
+        },
+        {
+          "text": "5. Telecommunications:",
+          "font_size": 11.04
+        },
+        {
+          "text": "Many telecommunications companies make use of heuristic search in the management of their workforces for",
+          "font_size": 11.04
+        },
+        {
+          "text": "example BT Group has deployed heuristic search in a scheduling application that provides the work schedules",
+          "font_size": 11.04
+        },
+        {
+          "text": "of 20000 engineers.",
+          "font_size": 11.04
+        },
+        {
+          "text": "6. Music:",
+          "font_size": 11.04
+        },
+        {
+          "text": "Scientists are trying to make the computer emulate the activities of the skillful musician. Composition,",
+          "font_size": 11.04
+        },
+        {
+          "text": "performance, music theory, sound processing are some of the major areas on which research in Music and",
+          "font_size": 11.04
+        },
+        {
+          "text": "Artificial Intelligence are focusing on. Eg:chucks, Orchextra, smartmusic etc.",
+          "font_size": 11.04
+        },
+        {
+          "text": "7. Antivirus:",
+          "font_size": 11.04
+        },
+        {
+          "text": "Artificial intelligence (AI) techniques have played increasingly important role in antivirus detection. At",
+          "font_size": 11.04
+        },
+        {
+          "text": "present, some principal artificial intelligence techniques applied in antivirus detection It improves the",
+          "font_size": 11.04
+        },
+        {
+          "text": "performance of antivirus detection systems, and promotes the production of new artificial intelligence",
+          "font_size": 11.04
+        },
+        {
+          "text": "algorithm and the application in antivirus detection to integrate antivirus detection with artificial intelligence.",
+          "font_size": 11.04
+        }
+      ]
+    },
+    {
+      "page": 10,
+      "blocks": [
+        {
+          "text": "Journal of Advanced Zoology",
+          "font_size": 9.96
+        },
+        {
+          "text": "Available online at: https://jazindia.com                                                                                                                      238",
+          "font_size": 10.5
+        },
+        {
+          "text": "Conclusion",
+          "font_size": 11.04
+        },
+        {
+          "text": "This systematic literature review study provides a structured understanding of the state-of-the-art of AI research",
+          "font_size": 11.04
+        },
+        {
+          "text": "in IS. This was achieved by identifying 98 primary studies out of 1877 related AI articles over a fifteen-year",
+          "font_size": 11.04
+        },
+        {
+          "text": "period (2005 \u2013 2020) and analysed them with respect to (i) definitions of AI, (ii) frequency of publication by",
+          "font_size": 11.04
+        },
+        {
+          "text": "year, (iii) publication channels, (iv) research method and data collection type, (v) contribution type, (vi) type",
+          "font_size": 11.04
+        },
+        {
+          "text": "of AI and (vii) business value.",
+          "font_size": 11.04
+        },
+        {
+          "text": "A clear finding emerging from this systematic literature review is the need to (i) increase the number of rigorous",
+          "font_size": 11.04
+        },
+        {
+          "text": "academic studies on AI, especially regarding tools and models, (ii) be more detailed on the definition of AI",
+          "font_size": 11.04
+        },
+        {
+          "text": "used in studies, even when it is not the focus, and (iii) build on cumulative knowledge. Research on AI in IS is",
+          "font_size": 11.04
+        },
+        {
+          "text": "still largely unexplored. While there is a relatively sizable amount of literature concerning AI in some way, a",
+          "font_size": 11.04
+        },
+        {
+          "text": "comprehensive review of what is known about AI in IS is lacking. This is especially true for the way AI is",
+          "font_size": 11.04
+        },
+        {
+          "text": "defined in IS, which is still disparate. This study examines the body of knowledge about AI in IS. This work",
+          "font_size": 11.04
+        },
+        {
+          "text": "has developed one of the very few SLRs on AI in IS and has provided a structured analysis of trends and gaps",
+          "font_size": 11.04
+        },
+        {
+          "text": "in the field. The study provides new insights to the field of IS through the utilisation of conceptions of AI",
+          "font_size": 11.04
+        },
+        {
+          "text": "definition, mapping activities to AI, and value relating to AI. We identified gaps in knowledge in the context",
+          "font_size": 11.04
+        },
+        {
+          "text": "of AI research and IS, which provides a starting point for IS researchers and IS practitioners to advance the",
+          "font_size": 11.04
+        },
+        {
+          "text": "socio-technical knowledge surrounding AI. Thus, we make a call for future IS studies to examine AI,",
+          "font_size": 11.04
+        },
+        {
+          "text": "specifically to how AI is defined in contemporary IS research.",
+          "font_size": 11.04
+        },
+        {
+          "text": "References:",
+          "font_size": 11.04
+        },
+        {
+          "text": "1. http://en.wikibooks.org/wiki/Computer_Science:Artificial_Intelligence http://www.howstuffworks.com/",
+          "font_size": 11.04
+        },
+        {
+          "text": "arificialintelligence",
+          "font_size": 11.04
+        },
+        {
+          "text": "2. http:// www.google.co.in",
+          "font_size": 11.04
+        },
+        {
+          "text": "3. http://www.library.thinkquest.org",
+          "font_size": 11.04
+        },
+        {
+          "text": "4. https://www.javatpoint.com/application-of-ai",
+          "font_size": 11.04
+        },
+        {
+          "text": "5. https://www.educba.com/artificial-intelligence-techniques/",
+          "font_size": 11.04
+        },
+        {
+          "text": "6. https://www.cigionline.orgw/articles/cybersecuritybattlefield/?utm_source=google_ads&utm_medium=",
+          "font_size": 11.04
+        },
+        {
+          "text": "grant&gclid=EAIaIQobChMIsdz9qLSF_AIVzQ0rCh1bNQylEAA YAiAAEgI40_D_BwE",
+          "font_size": 11.04
+        }
+      ]
+    }
+  ]
+}
