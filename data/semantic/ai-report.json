@@ -1,0 +1,57 @@
+{
+  "unknown": {
+    "predicted_label": "method",
+    "confidence_scores": {
+      "abstract": 0.421245813369751,
+      "introduction": 0.4188445210456848,
+      "method": 0.46200209856033325,
+      "results": 0.43726056814193726,
+      "conclusion": 0.4605051577091217
+    },
+    "text": "1 artificial intelligence and the future of teaching and learning insights and recommendations may 2023 artificial intelligence and the future of teaching and learning miguel a. cardona, ed.d. secretary, u.s. department of education roberto j. rodrguez assistant secretary, office of planning, evaluation, and policy development kristina ishmael deputy director, office of educational technology may 2023 examples are not endorsements this document contains examples and resource materials that are provided for the users convenience. the inclusion of any material is not intended to reflect its importance nor is it intended to endorse any views expressed or products or services offered. these materials may contain the views and recommendations of various subject matter experts as well as hypertext links, contact addresses, and websites to information created and maintained by other public and private organizations. the opinions expressed in any of these materials do not necessarily reflect the positions or policies of the u.s. department of education. the u.s. department of education does not control or guarantee the accuracy, relevance, timeliness, or completeness of any information from other sources that are included in these materials. other than statutory and regulatory requirements included in the document, the contents of this guidance do not have the force and effect of law and are not meant to bind the public. contracts and procurement this document is not intended to provide legal advice or approval of any potential federal contractors business decision or strategy in relation to any current or future federal procurement andor contract. further, this document is not an invitation for bid, request for proposal, or other solicitation. licensing and availability this report is in the public domain and available on the u.s. department of educations departments website at httpstech.ed.gov. requests for alternate format documents such as braille or large print should "
+  },
+  "introduction  ": {
+    "predicted_label": "abstract",
+    "confidence_scores": {
+      "abstract": 0.5704002380371094,
+      "introduction": 0.5191688537597656,
+      "method": 0.5322511196136475,
+      "results": 0.4993150532245636,
+      "conclusion": 0.5417432188987732
+    },
+    "text": "rising interest in ai in education ......................................................................................................................................................... 1 three reasons to address ai in education now................................................................................................................... 2 toward policies for ai in education .................................................................................................................................................. 3 building ethical, equitable policies together........................................................ 6 guiding questions ........................................................................................................................................................................................... 6 foundation 1 center people parents, educators, and students ......................................................................... 6 foundation 2 advance equity...............................................................................................................................................................7 foundation 3 ensure safety, ethics, and effectiveness ................................................................................................ 8 foundation 4 promote transparency ........................................................................................................................................... 9 overview of document ............................................................................................................................................................................ 10 what is ai .......................................................................................................................... 11 perspective humanlike reasoning ..................................................................................................................................."
+  },
+  "references ": {
+    "predicted_label": "method",
+    "confidence_scores": {
+      "abstract": 0.5652312636375427,
+      "introduction": 0.534000039100647,
+      "method": 0.5903658866882324,
+      "results": 0.5309063196182251,
+      "conclusion": 0.5412498712539673
+    },
+    "text": "1"
+  },
+  "introduction": {
+    "predicted_label": "conclusion",
+    "confidence_scores": {
+      "abstract": 0.4505056142807007,
+      "introduction": 0.43410566449165344,
+      "method": 0.4867931306362152,
+      "results": 0.4744727909564972,
+      "conclusion": 0.5075454115867615
+    },
+    "text": "the u.s. department of education department is committed to supporting the use of technology to improve teaching and learning and to support innovation throughout educational systems. this report addresses the clear need for sharing knowledge and developing policies for artificial intelligence, a rapidly advancing class of foundational capabilities which are increasingly embedded in all types of educational technology systems and are also available to the public. we will consider educational technology edtech to include both a technologies specifically designed for educational use, as well as b general technologies that are widely used in educational settings. recommendations in this report seek to engage teachers, educational leaders, policy makers, researchers, and educational technology innovators and providers as they work together on pressing policy issues that arise as artificial intelligence ai is used in education. ai can be defined as automation based on associations. when computers automate reasoning based on associations in data or associations deduced from expert knowledge, two shifts fundamental to ai occur and shift computing beyond conventional edtech 1 from capturing data to detecting patterns in data and 2 from providing access to instructional resources to automating decisions about instruction and other educational processes. detecting patterns and automating decisions are leaps in the level of responsibilities that can be delegated to a computer system. the process of developing an ai system may lead to bias in how patterns are detected and unfairness in how decisions are automated. thus, educational systems must govern their use of ai systems. this report describes opportunities for using ai to improve education, recognizes challenges that will arise, and develops recommendations to guide further policy development. rising interest in ai in education today, many priorities for improvements to teaching and learning are unmet. educators seek techn"
+  },
+  "references": {
+    "predicted_label": "method",
+    "confidence_scores": {
+      "abstract": 0.48415935039520264,
+      "introduction": 0.46133044362068176,
+      "method": 0.5165379047393799,
+      "results": 0.46197715401649475,
+      "conclusion": 0.5070809721946716
+    },
+    "text": "akgun, s., greenhow, c. 2022. artificial intelligence in education addressing ethical challenges in k12 settings. ai ethics, 2, 431440. httpsdoi.org10.1007s43681021 000967 aleven, v., mclaughlin, e. a., glenn, r. a.,  koedinger, k. r. 2016. instruction based on adaptive learning technologies. in mayer, r.e.  alexander, p.a., handbook of research on learning and instruction, 522560. isbn 113883176x baker, r.s., esbenshade, l., vitale, j.,  karumbaiah, s. 2022. using demographic data as predictor variables a questionable choice. httpsdoi.org10.35542osf.ioy4wvj black, p.  wiliam, d. 1998. inside the black box raising standards through classroom assessment. phi delta kappan, 921, 8190. httpskappanonline.orginsidetheblack boxraisingstandardsthroughclassroomassessment black, p.,  wiliam, d. 2009. developing the theory of formative assessment. educational assessment, evaluation and accountability, 211, 531. httpsdoi.org10.1007s11092008 90685 boden, m.a. 2018. artificial intelligence a very short introduction. oxford. isbn 9780199602919 bryant, j., heitz,c., sanghvi, s.,  wagle, d. 2020, january 14. how artificial intelligence will impact k12 teachers. mckinsey. httpswww.mckinsey.comindustrieseducationour insightshowartificialintelligencewillimpactk12teachers celik, i., dindar, m., muukkonen, h.  jrvel, s. 2022. the promises and challenges of artificial intelligence for teachers a systematic review of research. techtrends, 66, 616 630. httpsdoi.org10.1007s1152802200715y center for integrative research in computing and learning sciences circls. 2022, feb.. from broadening to empowering reflecting on the circls21 convening. httpscircls.orgcircls21report chen, c., park, h.w.  breazeal, c. 2020. teaching and learning with children impact of reciprocal peer learning with a social robot on childrens learning and emotive engagement. computers  education, 150, httpsdoi.org10.1016j.compedu.2020.103836 chen, g., clarke, s.,  resnick, l.b. 2015. classroom discourse analyzer cda a disc"
+  }
+}

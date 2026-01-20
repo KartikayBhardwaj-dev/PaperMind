@@ -1,0 +1,13 @@
+{
+  "unknown": {
+    "predicted_label": "method",
+    "confidence_scores": {
+      "abstract": 0.5040533542633057,
+      "introduction": 0.48875319957733154,
+      "method": 0.5321288108825684,
+      "results": 0.48102179169654846,
+      "conclusion": 0.5257302522659302
+    },
+    "text": "available online at httpsjazindia.com 229 journal of advanced zoology issn 02537214 volume 44 issue s8 year 2023 page 229 238  research paper on artificial intelligence and its applications n. h. patil1, s. h. patel2, s.d. lawand3 1assistant professor department of information technology, changu kana thakur arts, commerce and science college, new panvel email nikitadpatil1904gmail.com 2department of information technology, changu kana thakur arts, commerce and science college, new panvel email shifapatel2110gmail.com 3department of information technology ,changu kana thakur arts, commerce and science college, new panvel email sapnalawand0gmail.com corresponding author n.h. patil assistant professor, department of information technology, changu kana thakur arts, commerce and science college, new panvel email nikitadpatil1904gmail.com cc license ccbyncsa 4.0 abstract in the future, intelligent machines will replace or enhance human capabilities in many areas. artificial intelligence is the intelligence exhibited by machines or software. it is the subfield of computer science. artificial intelligence is becoming a popular field in computer science as it has enhanced the human life in many areas. artificial intelligence in the last two decades has greatly improved performance of the manufacturing, service sector and so in the field of education. study in the field of artificial intelligence has given rise to the rapidly growing technology known as expert system. application areas of artificial intelligence is heaving a huge impact on various fields of life as expert system is widely used in these days to solve the complex problems in various areas as education, engineering, business, medicine, weather forecasting etc. the areas employing the technology of artificial intelligence have seen an increase in the quality and efficiency. this paper gives an overview of this technology and the scope of artificial intelligence in different areas with special reference to the use"
+  }
+}
